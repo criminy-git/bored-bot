@@ -1,4 +1,6 @@
-Bot that that suggests countless ideas of what to do and has a little suprise!
+# Random Activity Bot
+
+## Bot that that suggests countless ideas of what to do and has a little suprise!
 
 [Click here to view the finished project](https://j-pohl.github.io/random-activity-bot/)
 
